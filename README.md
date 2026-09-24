@@ -1,4 +1,3 @@
-<img width="814" height="402" alt="image" src="https://github.com/user-attachments/assets/9d922424-c1f1-4cc1-b552-63e22fffb017" /># My_Excel_work
 Here is a chocolate sales dataset, that shows the operational proficiency of chocolate across various country 
 It also shows the productive performance of all the chocolate products, within the various countries. more insights are in the Chart, Fig 1.
 
@@ -13,7 +12,7 @@ It also shows the productive performance of all the chocolate products, within t
 - Top 5 profit by product and geography
 - Total sales Performance
 
-
+<img width="814" height="402" alt="image" src="https://github.com/user-attachments/assets/9d922424-c1f1-4cc1-b552-63e22fffb017" /># My_Excel_work
 
 Connect with Me
   [LinkedIn](https://www.linkedin.com/in/emmanuel-elozonachukwu-066207310)
